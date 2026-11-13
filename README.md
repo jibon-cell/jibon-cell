@@ -22,6 +22,13 @@ I'm a Computer Science and Engineering student at Port City International Univer
 
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Arduino
 
+### 💻 Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,php,dart,html,css,flutter,mysql,flask,arduino,git,github,vscode" />
+</p>
+
+
 ## 🚀 Featured Projects
 
 ### 🤖 Autonomous Food Delivery Robot
@@ -46,6 +53,11 @@ A machine learning application designed to predict student GPA and identify acad
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jibon-cell&show_icons=true&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jibon-cell&layout=compact&theme=github_dark)
+
+
+### 📊 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jibon-cell&theme=github-dark-blue)
 
 ## 📫 Connect With Me
 
